@@ -1,8 +1,6 @@
 # Minitool
 
-심심풀이용으로 만들어봤습니다.
-
-HTML + BOOTSTRAP + JQuery를 통해 개발했습니다.
+심심풀이! 내 머리에 잊어버린 HTML CSS JS 복구를위해.. 
 
 1. 사칙연산만 가능한 계산기
 
